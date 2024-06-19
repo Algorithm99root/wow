@@ -1,2 +1,2 @@
 def add(x, y):
-    return x + y +10
+    return 2 * x + y 
